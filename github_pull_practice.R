@@ -8,4 +8,3 @@ ggplot(data = dat,
   geom_point(fill = "steelblue", shape = 21, size = 2)+
   labs(x = "Total Length (mm)",
        y = "Weight (g)")
-
